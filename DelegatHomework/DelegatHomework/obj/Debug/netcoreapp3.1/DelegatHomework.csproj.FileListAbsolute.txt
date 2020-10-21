@@ -1,0 +1,13 @@
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.exe
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.deps.json
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.dll
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\bin\Debug\netcoreapp3.1\DelegatHomework.pdb
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.dll
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.pdb
+C:\Users\Anatoliy\source\repos\DelegatHomework\DelegatHomework\obj\Debug\netcoreapp3.1\DelegatHomework.genruntimeconfig.cache
